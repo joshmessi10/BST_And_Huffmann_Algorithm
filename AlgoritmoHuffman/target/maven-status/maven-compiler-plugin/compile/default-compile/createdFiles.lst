@@ -1,0 +1,6 @@
+com\mycompany\mavenproject4\model\ArbolHuffman.class
+com\mycompany\mavenproject4\model\NodoHuffman.class
+com\mycompany\mavenproject4\Mavenproject4.class
+com\mycompany\mavenproject4\view\VentanaHuffman.class
+com\mycompany\mavenproject4\controller\HuffmanController.class
+com\mycompany\mavenproject4\view\VentanaHuffman$PanelDibujoHuffman.class
